@@ -4,6 +4,8 @@ import viteLogo from '/vite.svg'
 import './App.css'
 
 function App() {
+
+  // min counter <- 
   const [count, setCount] = useState(0)
 
   return (
