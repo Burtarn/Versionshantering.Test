@@ -5,7 +5,7 @@ import './App.css'
 
 function App() {
 
-  // min counter <- 
+  // min counter TESTAR REEEGLER!!! <- 
   const [count, setCount] = useState(0)
 
   return (
